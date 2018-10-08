@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotDAL_Core2", "AutoLotDAL_Core2\AutoLotDAL_Core2.csproj", "{C79CEA81-B12A-49C3-82EC-81D1587D3E6D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotDAL_Core2.Models", "AutoLotDAL_Core2.Models\AutoLotDAL_Core2.Models.csproj", "{DD3AA5AD-990E-4821-860B-2CC118284450}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuotLotDAL_Core2.TestDriver", "AuotLotDAL_Core2.TestDriver\AuotLotDAL_Core2.TestDriver.csproj", "{1A74CB04-4645-4B58-82FC-5E4DEE663A8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{C79CEA81-B12A-49C3-82EC-81D1587D3E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C79CEA81-B12A-49C3-82EC-81D1587D3E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C79CEA81-B12A-49C3-82EC-81D1587D3E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD3AA5AD-990E-4821-860B-2CC118284450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD3AA5AD-990E-4821-860B-2CC118284450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD3AA5AD-990E-4821-860B-2CC118284450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD3AA5AD-990E-4821-860B-2CC118284450}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A74CB04-4645-4B58-82FC-5E4DEE663A8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A74CB04-4645-4B58-82FC-5E4DEE663A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A74CB04-4645-4B58-82FC-5E4DEE663A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A74CB04-4645-4B58-82FC-5E4DEE663A8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
