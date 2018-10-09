@@ -2,7 +2,7 @@
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-[assembly: InternalsVisibleTo("AutoLotDAL_Core2.TestDriver")]
+[assembly: InternalsVisibleTo("AuotLotDAL_Core2.TestDriver")]
 
 //// General Information about an assembly is controlled through the following 
 //// set of attributes. Change these attribute values to modify the information
